@@ -126,7 +126,9 @@ Open new terminal:
 
 
 cd frontend
+
 npm install
+
 npm start
 
 
